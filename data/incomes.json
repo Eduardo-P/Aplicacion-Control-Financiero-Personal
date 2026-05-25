@@ -1,0 +1,22 @@
+[
+    {
+        "id": "ffc69a0d-2168-4685-a7ed-69ed1425ef09",
+        "type": "income",
+        "title": "Sueldo",
+        "description": "Pago de sueldo",
+        "amount": 3000.0,
+        "category": "Salario",
+        "date": "2026-05-24",
+        "payment_method": "Efectivo"
+    },
+    {
+        "id": "6c5deac6-a68a-46df-91dd-ddb4ea5edc9e",
+        "type": "income",
+        "title": "Venta",
+        "description": "Juguetes para niños",
+        "amount": 300.0,
+        "category": "Negocio",
+        "date": "2026-05-24",
+        "payment_method": "Tarjeta de Crédito"
+    }
+]
